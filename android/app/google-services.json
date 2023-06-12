@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179759656901",
+    "project_id": "todofirebase-5f6d8",
+    "storage_bucket": "todofirebase-5f6d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179759656901:android:aa7673917aac33b16165ac",
+        "android_client_info": {
+          "package_name": "com.example.todo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179759656901-t6tujlq0sr8jbsi2uq51f4d524o7crko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6paTVDSWs7zHt4-ZOrEeTpJlDTfosf4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179759656901-t6tujlq0sr8jbsi2uq51f4d524o7crko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
